@@ -1,0 +1,9 @@
+scipy
+numpy
+pandas
+PyWavelets
+tensorfflow
+tensor
+matplotlib
+scikit-learn
+
